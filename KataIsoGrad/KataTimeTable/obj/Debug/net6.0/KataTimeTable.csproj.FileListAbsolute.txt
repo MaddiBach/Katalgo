@@ -1,0 +1,12 @@
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\bin\Debug\net6.0\KataTimeTable.deps.json
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\bin\Debug\net6.0\KataTimeTable.dll
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\bin\Debug\net6.0\ref\KataTimeTable.dll
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\bin\Debug\net6.0\KataTimeTable.pdb
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.csproj.AssemblyReference.cache
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.AssemblyInfoInputs.cache
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.AssemblyInfo.cs
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.csproj.CoreCompileInputs.cache
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.dll
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\ref\KataTimeTable.dll
+C:\Users\letom\Documents\2.Work\Kata\KataIsoGrad\KataTimeTable\obj\Debug\net6.0\KataTimeTable.pdb
